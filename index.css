@@ -2,3 +2,6 @@ body{
     color: greenyellow;
     background: hotpink;
 }
+html{
+    width: 100%;
+}
